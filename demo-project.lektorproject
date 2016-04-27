@@ -1,0 +1,5 @@
+[project]
+name = demo-project
+
+[servers.ghpages]
+target = ghpages+https://ksshetty/demo-project
