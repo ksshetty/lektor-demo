@@ -2,4 +2,4 @@
 name = demo-project
 
 [servers.ghpages]
-target = ghpages+https://ksshetty/demo-project
+target = ghpages+https://ksshetty/lektor-demo
